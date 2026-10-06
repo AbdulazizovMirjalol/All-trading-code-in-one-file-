@@ -1,0 +1,13 @@
+metatrader5>=5.0.5640
+pandas
+numpy
+ta
+typer
+rich
+colorama
+python-dotenv
+backtesting
+requests
+apscheduler
+xgboost      
+scikit-learn   

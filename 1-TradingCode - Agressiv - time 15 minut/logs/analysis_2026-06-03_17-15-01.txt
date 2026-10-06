@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR  StochRSI_K  StochRSI_D
+2026-06-03 11:15:00 4462.107 4465.895 4459.010 4464.357         1877     280            0 4458.320533 4467.273323 52.832982 -2.656506    -4.961811 10.233269   95.757434   88.835319
+2026-06-03 11:30:00 4464.292 4466.995 4459.518 4460.346         1821     280            0 4458.513434 4467.001663 50.071055 -2.215499    -4.412548 10.036392   94.970950   92.503256
+2026-06-03 11:45:00 4460.402 4464.850 4458.504 4462.564         2152     280            0 4458.899202 4466.827637 51.578491 -1.667798    -3.863598  9.772793   93.315537   94.681307
+2026-06-03 12:00:00 4462.619 4464.541 4457.047 4458.861         2608     280            0 4458.895564 4466.515220 48.922817 -1.515078    -3.393894  9.610022   86.807907   91.698131
+2026-06-03 12:15:00 4458.858 4459.074 4458.858 4459.074            2     280            0 4458.912558 4466.223407 49.085208 -1.361168    -2.987349  8.939020   84.705276   88.276240
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Sideways (Range)
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: True
+News Reason: HIGH IMPACT: ADP Non-Farm Employment Change (17:15 Asia/Tashkent)
+Timeframe Alignment: Agressiv rejim: D1 filtrsiz
+RSI: 49.09
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4438.88
+Resistance: 4467.85
+ATR: 8.94
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Aniq entry zona topilmadi.
+Summary: Bozor noaniq yoki range holatda.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Reason: WAIT sababi: Setup hali NO TRADE rejimida (narx zonaga kelishi kutilmoqda). | STOP: HIGH IMPACT: ADP Non-Farm Employment Change (17:15 Asia/Tashkent)
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

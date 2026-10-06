@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR  StochRSI_K  StochRSI_D       ADX
+2026-05-15 18:30:00 4547.25 4550.41 4539.92 4541.42         7454       4            0 4550.871340 4569.688711 43.410428 -5.030747    -6.749344 15.167090   68.027546   81.032148 27.164950
+2026-05-15 18:45:00 4541.42 4543.51 4533.72 4539.85         6783       4            0 4549.821688 4568.518566 42.721754 -5.362175    -6.471910 14.783012   60.001224   70.090044 27.095732
+2026-05-15 19:00:00 4539.85 4542.41 4529.35 4532.65         5869       4            0 4548.186290 4567.111956 39.617721 -6.135092    -6.404547 14.659940   50.949086   59.659286 27.307282
+2026-05-15 19:15:00 4532.65 4542.41 4531.39 4540.90         5354       4            0 4547.492357 4566.084036 44.585968 -6.012619    -6.326161 14.399944   52.630396   54.526902 27.503722
+2026-05-15 19:30:00 4540.90 4547.74 4540.08 4547.20         5865       4            0 4547.464514 4565.343485 48.097929 -5.345580    -6.130045 13.918520   60.319640   54.633041 27.045963
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: WEAKENING
+News Time: False
+News Reason: Tinch vaqt — muhim yangilik yo'q
+Timeframe Alignment: D1 + H1 + M15 bearish alignment to'liq.
+RSI: 48.10
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Bullish candle confirmation
+Support: 4511.76
+Resistance: 4566.49
+ATR: 13.92
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (EMA/Bearish FVG).
+Summary: H1 va M15 bearish alignmentda, RSI bearish, lekin MACD tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: WEAK
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Reason: WAIT sababi: setup READY emas (SELL WATCH), signal strength past (WEAK).
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

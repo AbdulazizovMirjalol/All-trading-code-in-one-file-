@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume
+2026-06-03 03:45:00 4484.520 4486.274 4482.310 4484.191         1336     280            0
+2026-06-03 04:00:00 4484.541 4486.977 4483.878 4486.801         1536     280            0
+2026-06-03 04:15:00 4486.635 4488.308 4477.141 4477.210         1464     280            0
+2026-06-03 04:30:00 4477.151 4477.415 4470.716 4473.520         1688     280            0
+2026-06-03 04:45:00 4473.515 4473.515 4473.460 4473.460            2     280            0
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: N/A
+M15 Trend: N/A
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Session blokladi
+Timeframe Alignment: Session sabab alignment tekshirilmadi
+RSI: 0.00
+RSI Status: N/A
+MACD Status: N/A
+Candle Confirmation: N/A
+Support: 0.00
+Resistance: 0.00
+ATR: 0.00
+Price Location: N/A
+Entry Zone: N/A
+Summary: ASIA: Zaif sessiya — signal ishonchsiz sababli signal tekshirilmadi
+Trade Comment: Sessiya yaroqsiz
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Sessiya yaroqsiz — kutish kerak
+Final Signal: WAIT
+Alert Message: ALERT: Sessiya yaroqsiz
+Reason: WAIT: ASIA: Zaif sessiya — signal ishonchsiz
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

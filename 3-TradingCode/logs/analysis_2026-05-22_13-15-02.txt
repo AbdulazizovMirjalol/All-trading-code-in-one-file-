@@ -1,0 +1,78 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal      ATR  StochRSI_K  StochRSI_D       ADX
+2026-05-22 07:15:00 4522.629 4527.364 4522.216 4525.631         1989     280            0 4526.066302 4527.874586 48.866694 -1.567858    -1.762745 7.622263   61.501997   63.123546 21.369942
+2026-05-22 07:30:00 4525.839 4525.839 4516.053 4520.056         2542     280            0 4525.493893 4527.567975 44.138532 -1.858037    -1.781803 7.776815   53.255767   58.986379 22.482878
+2026-05-22 07:45:00 4519.712 4523.077 4517.670 4521.774         2011     280            0 4525.139617 4527.340760 45.876447 -1.927163    -1.810875 7.607543   53.220384   55.992716 23.516319
+2026-05-22 08:00:00 4521.893 4529.983 4521.379 4524.848         2301     280            0 4525.111844 4527.243005 48.937586 -1.714140    -1.791528 7.678718   53.329336   53.268495 22.891202
+2026-05-22 08:15:00 4524.903 4525.019 4524.903 4525.019            3     280            0 4525.103002 4527.155789 49.110013 -1.514067    -1.736036 7.142453   60.969841   55.839853 22.310735
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bullish (Ko'tarilish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt — muhim yangilik yo'q
+Timeframe Alignment: H1 va M15 bir tomonda emas. Entry alignment yo'q.
+RSI: 49.11
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4507.23
+Resistance: 4534.26
+ATR: 7.14
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (EMA).
+Summary: H1 bullish, lekin M15 zaiflashgan. Bu pullback yoki vaqtinchalik tuzatish bo'lishi mumkin.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Reason: WAIT sababi: setup READY emas (NO TRADE), signal strength past (WEAK).
+Block Reason: 
+Quality Score: 0
+Quality Grade: WEAK
+Quality Text: QUALITY: 0/100 — WEAK | BUY 41 / SELL 21 / Conflict 21 | Entry 0/100 (D)
+BUY Score: 41
+SELL Score: 21
+Conflict Score: 21
+Net Bias: 20
+Entry Quality Score: 0
+Entry Quality Grade: D
+Market Regime Filter Enabled: True
+Trend Direction Filter Enabled: True
+Quality Score Filter Enabled: True
+Conflict Score Filter Enabled: True
+Entry Quality Filter Enabled: True
+Min Quality Score: 65
+Max Conflict Score: 35
+Min Entry Quality Score: 65
+Live Safety Filter Enabled: True
+Live Min Quality Score: 80
+Live Min Entry Quality Score: 80
+Live Max Conflict Score: 30
+Live Allow Mixed Regime: True
+Live Allow Trending Up: True
+Live Allow Trending Down: True
+Live Allow Ranging: False
+Live Allow High Volatility Risk: False
+Live Allow Low Liquidity Chop: False
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Market Regime: MIXED
+Regime Direction: RANGE
+Regime Strength: 26
+Volatility State: LOW_VOLATILITY
+ATR Percentile: 0.2
+Regime Reason: Regime=MIXED; Direction=RANGE; TrendStrength=26; Volatility=LOW_VOLATILITY; ATRPercentile=0.2; EMA=DOWN/0; ADXScore=16; Structure=UP/10

@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal      ATR  StochRSI_K  StochRSI_D
+2026-06-03 04:00:00 4484.541 4486.977 4483.878 4486.801         1536     280            0 4482.167292 4487.558211 54.053273 -0.541936    -2.171432 7.256552   79.536767   72.927824
+2026-06-03 04:15:00 4486.635 4488.308 4477.141 4477.210         1464     280            0 4481.695169 4487.152398 44.771115 -0.911549    -1.919455 7.535870   71.233294   73.010828
+2026-06-03 04:30:00 4477.151 4477.415 4470.716 4473.520         1688     280            0 4480.916582 4486.617795 41.797246 -1.485103    -1.832585 7.476093   57.715030   69.495031
+2026-06-03 04:45:00 4473.515 4473.897 4468.250 4469.498         1442     280            0 4479.829098 4485.946430 38.774056 -2.238387    -1.913745 7.345444   24.381697   51.110007
+2026-06-03 05:00:00 4469.264 4469.458 4469.264 4469.458            4     280            0 4478.841374 4485.299825 38.744042 -2.806250    -2.092246 6.837484    9.271616   30.456114
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt — muhim yangilik yo'q
+Timeframe Alignment: Agressiv rejim: D1 filtrsiz
+RSI: 38.74
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4463.17
+Resistance: 4488.31
+ATR: 6.84
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (Bearish FVG).
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Sell setup tayyor. Trend, momentum va candle confirmation sell tomonida.
+Setup Status: READY SELL
+Signal Strength: STRONG
+Trade Plan: Sell setup tayyor. Entry, SL va TP asosida sell ko'rib chiqilishi mumkin.
+Final Signal: SELL
+Alert Message: ALERT: Sell signali tayyor.
+Reason: SELL tasdiqlandi. H1+M15 trend bir tomonda va narx aniq entry zonasida. | AUTO TRADE OFF - Virtual SL Active
+Suggested Entry: 4470.83
+Suggested Stop Loss: 4476.98
+Suggested Take Profit: 4459.76
+Risk/Reward Ratio: 1.8

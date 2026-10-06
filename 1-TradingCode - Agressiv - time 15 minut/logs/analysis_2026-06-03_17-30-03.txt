@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR  StochRSI_K  StochRSI_D
+2026-06-03 11:30:00 4464.292 4466.995 4459.518 4460.346         1821     280            0 4458.513434 4467.001663 50.071055 -2.215499    -4.412548 10.036392   94.970950   92.503256
+2026-06-03 11:45:00 4460.402 4464.850 4458.504 4462.564         2152     280            0 4458.899202 4466.827637 51.578491 -1.667798    -3.863598  9.772793   93.315537   94.681307
+2026-06-03 12:00:00 4462.619 4464.541 4457.047 4458.861         2608     280            0 4458.895564 4466.515220 48.922817 -1.515078    -3.393894  9.610022   86.807907   91.698131
+2026-06-03 12:15:00 4458.858 4462.351 4451.816 4452.858         3111     280            0 4458.320558 4465.979643 44.887899 -1.857031    -3.086521  9.676092   77.202454   85.775299
+2026-06-03 12:30:00 4452.980 4453.272 4452.980 4453.272            7     280            0 4457.839743 4465.481304 45.223431 -2.070755    -2.883368  9.014514   65.687973   76.566112
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: True
+News Reason: HIGH IMPACT: ADP Non-Farm Employment Change (17:15 Asia/Tashkent)
+Timeframe Alignment: Agressiv rejim: D1 filtrsiz
+RSI: 45.22
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4438.88
+Resistance: 4467.85
+ATR: 9.01
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (EMA/Bearish FVG).
+Summary: H1 va M15 bearish alignmentda, RSI bearish, lekin MACD tiklanishga urinmoqda.
+Trade Comment: Sell setup tayyor. Trend, momentum va candle confirmation sell tomonida.
+Setup Status: READY SELL
+Signal Strength: STRONG
+Trade Plan: Sell setup tayyor. Entry, SL va TP asosida sell ko'rib chiqilishi mumkin.
+Final Signal: WAIT
+Alert Message: ALERT: Sell signali tayyor.
+Reason: SELL tasdiqlandi. H1+M15 trend bir tomonda va narx aniq entry zonasida. | STOP: HIGH IMPACT: ADP Non-Farm Employment Change (17:15 Asia/Tashkent)
+Suggested Entry: 4457.84
+Suggested Stop Loss: 4465.95
+Suggested Take Profit: 4440.23
+Risk/Reward Ratio: 2.17

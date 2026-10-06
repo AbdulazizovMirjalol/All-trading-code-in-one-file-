@@ -1,0 +1,78 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume
+2026-05-22 02:15:00 4527.457 4528.917 4522.428 4524.730         1986     280            0
+2026-05-22 02:30:00 4524.370 4524.663 4518.345 4522.705         2808     280            0
+2026-05-22 02:45:00 4522.804 4526.861 4519.305 4522.897         2197     280            0
+2026-05-22 03:00:00 4522.842 4525.323 4520.617 4521.163         2217     280            0
+2026-05-22 03:15:00 4521.223 4521.290 4520.937 4521.107            5     280            0
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: N/A
+M15 Trend: N/A
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Session blokladi
+Timeframe Alignment: Session sabab alignment tekshirilmadi
+RSI: 0.00
+RSI Status: N/A
+MACD Status: N/A
+Candle Confirmation: N/A
+Support: 0.00
+Resistance: 0.00
+ATR: 0.00
+Price Location: N/A
+Entry Zone: N/A
+Summary: ASIA: Zaif sessiya — signal ishonchsiz sababli signal tekshirilmadi
+Trade Comment: Sessiya yaroqsiz
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Sessiya yaroqsiz — kutish kerak
+Final Signal: WAIT
+Alert Message: ALERT: Sessiya yaroqsiz
+Reason: WAIT: ASIA: Zaif sessiya — signal ishonchsiz
+Block Reason: N/A
+Quality Score: N/A
+Quality Grade: N/A
+Quality Text: N/A
+BUY Score: N/A
+SELL Score: N/A
+Conflict Score: N/A
+Net Bias: N/A
+Entry Quality Score: N/A
+Entry Quality Grade: N/A
+Market Regime Filter Enabled: N/A
+Trend Direction Filter Enabled: N/A
+Quality Score Filter Enabled: N/A
+Conflict Score Filter Enabled: N/A
+Entry Quality Filter Enabled: N/A
+Min Quality Score: N/A
+Max Conflict Score: N/A
+Min Entry Quality Score: N/A
+Live Safety Filter Enabled: N/A
+Live Min Quality Score: N/A
+Live Min Entry Quality Score: N/A
+Live Max Conflict Score: N/A
+Live Allow Mixed Regime: N/A
+Live Allow Trending Up: N/A
+Live Allow Trending Down: N/A
+Live Allow Ranging: N/A
+Live Allow High Volatility Risk: N/A
+Live Allow Low Liquidity Chop: N/A
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Market Regime: N/A
+Regime Direction: N/A
+Regime Strength: N/A
+Volatility State: N/A
+ATR Percentile: N/A
+Regime Reason: N/A

@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time     open     high      low    close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal      ATR  StochRSI_K  StochRSI_D
+2026-05-22 09:00:00 4521.997 4525.355 4517.171 4517.363         2292     280            0 4523.979124 4526.452003 42.058797 -1.936850    -1.693509 7.566118   50.433170   58.362292
+2026-05-22 09:15:00 4517.295 4520.615 4515.196 4517.799         2548     280            0 4523.390540 4526.112670 42.589363 -2.192743    -1.793355 7.412752   34.477581   48.339433
+2026-05-22 09:30:00 4517.623 4526.018 4514.724 4524.946         2505     280            0 4523.538679 4526.066918 50.578337 -1.798108    -1.794306 7.689984   49.322703   44.744485
+2026-05-22 09:45:00 4525.005 4536.097 4524.526 4532.341         2289     280            0 4524.376996 4526.312961 57.212876 -0.878516    -1.611148 7.967200   67.548883   50.449722
+2026-05-22 10:00:00 4532.397 4532.526 4532.397 4532.526            9     280            0 4525.153091 4526.556609 57.367067 -0.133268    -1.315572 7.411328   98.876317   71.915968
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bullish (Ko'tarilish)
+M15 Trend: Sideways (Range)
+D1 Trend: NEUTRAL
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt — muhim yangilik yo'q
+Timeframe Alignment: Agressiv rejim: D1 filtrsiz
+RSI: 57.37
+RSI Status: Bullish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4514.72
+Resistance: 4531.11
+ATR: 7.41
+Price Location: Narx resistance ga yaqin.
+Entry Zone: Aniq entry zona topilmadi.
+Summary: Bozor noaniq yoki range holatda.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Reason: WAIT sababi: Setup hali NO TRADE rejimida (narx zonaga kelishi kutilmoqda).
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
